@@ -7,13 +7,17 @@
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
+  <input type="text" id="fname" name="fname" value="Enter your name"><br>
   <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br>
+    <label for="course">Course Interested</label><br>
+  <input type="text" id="course" name="course" value="Devops, AWS, Azure"><br><br>
+  
+  <br>
   <input type="submit" value="Submit">
 </form> 
 
-<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+<p></p>
 
 </body>
 
