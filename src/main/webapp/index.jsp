@@ -17,7 +17,11 @@
   <input type="submit" value="Submit">
 </form> 
 
-<p></p>
+<p> Feel free to contact us on : techmarshalsacademy@gmail.com</p>
+<p> Phones: +91 9993335556</p>
+<p>Copyright &copy Tech Marshals Academy 2021</p>
+
+
 
 </body>
 
