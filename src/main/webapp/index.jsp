@@ -1,6 +1,6 @@
 <html>
 
-<body>
+<body bgcolor="#COCOCO">
 <h1>Tech Marshals Academy</h1>
 
 <h2>Welcome To Tech Marshals Training Academy</h2>
@@ -12,6 +12,7 @@
   <input type="text" id="lname" name="lname"><br>
     <label for="course">Course Interested</label><br>
   <input type="text" id="course" name="course"><br><br>
+  <img src="../../../logo.jpg" alt="logo"/>
   
   <br>
   <input type="submit" value="Submit">
