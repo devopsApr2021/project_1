@@ -1,6 +1,6 @@
 <html>
 
-<body>
+<body bgcolor="#faebe7"
 <h1>Tech Marshals Academy</h1>
 
   
