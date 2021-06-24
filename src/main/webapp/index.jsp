@@ -6,7 +6,7 @@
 
   
 <h2>Welcome To Tech Marshals Training Academy</h2>
-  <h3>Devops Course 2021</h3>
+  <h3>Devops Course 2022</h3>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
