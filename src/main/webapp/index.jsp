@@ -1,7 +1,8 @@
 <html>
 
-<body bgcolor="$faebe7">
+<body bgcolor="#COCOCO">
 <h1>Tech Marshals Academy</h1>
+  <h2>Firm of ensuring innovation</h2>
 
   
 <h2>Welcome To Tech Marshals Training Academy</h2>
