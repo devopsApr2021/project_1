@@ -1,6 +1,6 @@
 <html>
 
-<body bgcolor=#FAEBE7>
+<body>
 <h1>Tech Marshals Academy</h1>
   <h2>Firm of ensuring innovation</h2>
 
@@ -15,7 +15,7 @@
   <input type="text" id="lname" name="lname"><br>
     <label for="course">Course Interested</label><br>
   <input type="text" id="course" name="course"><br><br>
-  <img src="../../../logo.jpg" alt="logo"/>
+ 
   <h1> Data Science</h1>
   <p> Data science course is taught by Mr. Ramana who got 12 + years of IT experience and an author or 20 books on AI and ML</p>
   
