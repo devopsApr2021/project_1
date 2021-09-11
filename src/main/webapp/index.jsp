@@ -27,7 +27,7 @@
   <h4>Data Science</h4>
   <h4>Big data Analytics</h4>
 <p> Feel free to contact us on : techmarshalsacademy@gmail.com</p>
-<p> Phones: +91 9993335556</p>
+  <h3>Phones: +91 9993335556</h3>
 <p>Copyright &copy Tech Marshals Academy 2021</p>
 
 
