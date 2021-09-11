@@ -1,6 +1,6 @@
 <html>
 
-<body bgcolor="#faebe7">
+<body bgcolor="#FFF">
 <h1>Tech Marshals Academy</h1>
   <h2>Firm of ensuring innovation</h2>
   <h1> Welcome to Nexson IT Solutions</h1>
